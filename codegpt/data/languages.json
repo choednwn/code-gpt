@@ -1,0 +1,22 @@
+{
+    "py": {
+        "language": "Python",
+        "command": "python",
+        "arguments": ""
+    },
+    "c": {
+        "language": "C",
+        "command": "gcc",
+        "arguments": "-w"
+    },
+    "cpp": {
+        "language": "C++",
+        "command": "g++",
+        "arguments": "-w "
+    },
+    "js": {
+        "language": "JavaScript",
+        "command": "node",
+        "arguments": ""
+    }
+}
